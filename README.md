@@ -10,18 +10,19 @@
  * Last updated: 5/5/22
  *
  * CITATIONS:
- *   IMAGES: lose bkgd img: https://quotesgram.com/img/sad-spongebob-quotes/15740300/
- *           win bkgd img: https://animesuperhero.com/spongebob-squarepants-10-happiest-moments-sap-happy/
- *           cover img: https://play.google.com/store/apps/details?id=com.tiltingpoint.spongebob&hl=en_US&gl=US
- *           kitchen img: https://www.pinterest.com/pin/217017275783829549/
- *           instruction img: by Yanwen
- *           spatula img: by Yanwen
- *           patty img: https://unsplash.com/photos/hyIE90CN6b0
- *                      https://www.pexels.com/photo/photo-of-beef-patties-being-grilled-8880744/                  
+ *   IMAGES: 
+ *     lose bkgd img: https://quotesgram.com/img/sad-spongebob-quotes/15740300/
+ *     win bkgd img: https://animesuperhero.com/spongebob-squarepants-10-happiest-moments-sap-happy/
+ *     cover img: https://play.google.com/store/apps/details?id=com.tiltingpoint.spongebob&hl=en_US&gl=US
+ *     kitchen img: https://www.pinterest.com/pin/217017275783829549/
+ *     instruction img: by Yanwen
+ *     spatula img: by Yanwen
+ *     patty img: https://unsplash.com/photos/hyIE90CN6b0
+ *       https://www.pexels.com/photo/photo-of-beef-patties-being-grilled-8880744/                  
  *            
- *  `CODE: timer modified from: http://learningprocessing.com/examples/chp10/example-10-04-timer
-Make: Getting Started with Processing by Casey Reas and Ben Fry pg. 64, 159, 
-https://www.programiz.com/java-programming/arraylist, Processing Array List Reference, Processing True/False Reference
+ *  CODE: timer modified from: http://learningprocessing.com/examples/chp10/example-10-04-timer
+ *  Make: Getting Started with Processing by Casey Reas and Ben Fry pg. 64, 159, https://www.programiz.com/java-programming/arraylist
+ *  Processing Array List Reference, Processing True/False Reference
  *
  * NOTE: 
  * Yanwen worked on: welcome page, enums, patties array, scoreboard, spatula, comments
