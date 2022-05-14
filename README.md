@@ -4,7 +4,7 @@
  * Course: ART 22  - Computer Programming for the Arts
  * Assignment: Week 7 Project
  *
- * by Tvisha Patel, Simone Mansell, Yanwen Chen
+ * by Yanwen Chen, Simone Mansell, Tvisha Patel
  *
  * Initiated: 5/4/22
  * Last updated: 5/5/22
