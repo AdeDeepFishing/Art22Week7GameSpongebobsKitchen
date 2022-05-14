@@ -25,7 +25,7 @@
  *  Processing Array List Reference, Processing True/False Reference
  *
  * NOTE: 
- * Yanwen worked on: welcome page, enums, patties array, scoreboard, spatula, comments
+ * Yanwen worked on: idea making, welcome page, enums, patties array, scoreboard, spatula, comments
  * Simone worked on: patties array, scoreboard, comments
  * Tvisha worked on: timer, win scene, loose scene, welcome page
  *
